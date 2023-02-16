@@ -1,6 +1,7 @@
-import 'package:demo_mobx/counter_app/counter_app.dart';
+import 'package:demo_mobx/todo_app/todo_app.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const CounterApp());
+  //runApp(const CounterApp());
+  runApp(const TodoApp());
 }
